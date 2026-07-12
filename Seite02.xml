@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ost-Indische Reise-Beschreibung</title>
+        <title type="sub">Diarium, Was bey der Reise des Churfürstl. Sächß. Raths und Berg-Commissarii, D. Benjamin Olitzschens im Jahr 1680. Von Dreßden aus</title>
+        <author>
+          <persName ref="http://d-nb.info/gnd/128660260">
+            <surname>Hesse</surname>
+            <forename>Elias</forename>
+          </persName>
+        </author>
+        <respStmt>
+          <orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe</note>
+            <ref target="https://www.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt><edition>Vollständige digitalisierte Ausgabe.</edition></editionStmt>
+      <extent>
+        <measure type="images"/>
+        <measure type="tokens"/>
+        <measure type="types"/>
+        <measure type="characters"/>
+      </extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2026-03-14T10:35:09Z</date>
+        <availability xml:id="availability-imagesource-1" corresp="#imagesource-1">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+            <p>CC BY-NC-SA 4.0</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="M"/>
+        <biblFull>
+          <titleStmt>
+          <title level="m" type="main">Ost-Indische Reise-Beschreibung</title>
+          <title level="m" type="sub">Diarium, Was bey der Reise des Churfürstl. Sächß. Raths und Berg-Commissarii, D. Benjamin Olitzschens im Jahr 1680. Von Dreßden aus</title>
+            <author>
+              <persName ref="http://d-nb.info/gnd/128660260">
+                <surname>Hesse</surname>
+                <forename>Elias</forename>
+              </persName>
+            </author>
+          </titleStmt>
+          <editionStmt>
+            <edition n="1"/>
+          </editionStmt>
+          <publicationStmt>
+            <publisher><name>Jacob Born</name></publisher>
+              <pubPlace>Leipzig</pubPlace>
+            <date type="publication">1734</date>
+          </publicationStmt>
+        </biblFull>
+        <msDesc xml:id="imagesource-1" corresp="#availability-imagesource-1">
+          <msIdentifier>
+            <repository>Thüringer Universitäts- und Landesbibliothek Jena</repository>
+            <idno>
+              <idno type="shelfmark">8 M 13823</idno>
+              <idno type="URN"> urn:nbn:de:urmel-a6322c7e-b39c-47db-be6f-8e18293379653</idno>
+            </idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+<text>
+<body>
+<p>
+  <lb/>Ost-Indischen Comp. Dienste/ als Berg-
+  <lb/>Hauptmann und Directeur ihres in Asien auf 
+  <lb/><placeName ref="https://d-nb.info/gnd/4027833-4">Sumatras</placeName> West-Cüst habenden Gold-
+  <lb/>Bergwercks/ eingelassen) recommendirte; 
+  <lb/>welche recommendation auch so viel fruch-
+  <lb/>tete/ daß wohlgedachter Herr Berg-Haupt-
+  <lb/>mann <persName ref="https://d-nb.info/gnd/118540238">Olitsch</persName> mich alsbald zu vorhabender
+  <lb/>Reise in seine Dienste auff und annahm. Ich
+  <lb/>vor meine Person war umb nichts mehr be-
+  <lb/>kümmert/ als zuförderst von den Meinigen
+  <lb/>Abschied zu nehmen: welches ich auch gar
+  <lb/>balde verrichtete/ schickte mich also gäntzlich
+  <lb/>zur Reise/ und fuhr in GOttes Nahmen den 
+  <lb/><date when="1680-07-26">26. Ju. 1680</date>, von <placeName ref="http://d-nb.info/gnd/4031558-7">Königstein</placeName> zu Wasser biß
+  <lb/>Sieben-Ebichen/ woselbst ich meines Patrons
+  <lb/>erwartete; welcher auch mit seiner Familien
+  <lb/>benebenst einem Marck-scheider<note type="editorial">Bezeichnung für einen lVermessungsingenieur im Bergbau.</note>/ dreyen
+  <lb/>Schmelzern und zwölff gemeinen Bergleu-
+  <lb/>ten/ noch selbigen Abend von <placeName ref="http://d-nb.info/gnd/4018266-6">Freyberg</placeName> an-
+  <lb/>kam: giengen auch darauff mit seinen bey sich
+  <lb/>habenden Personen zu Schiffe/ und kamen in
+  <lb/>kurzen gar glücklich nach <placeName ref="http://d-nb.info/gnd/4023118-5">Hamburg</placeName>. Nun 
+  <lb/>trugen sich zwar von der Abreise an biß Ham-
+  <lb/>burg unterschiedliche Sachen zu/absonderlich
+  <lb/>mit unsern Bergleuten/welche manchen Pos-
+  <lb/>sen und Kurzweile machten/ will aber selbige/
+  <lb/>weil sie hieher zu sezen nicht eben nöthig seyn/
+  <lb/>mit Stillschweigen übergehen.
+</p>
+</body>
+</text>
+</TEI>

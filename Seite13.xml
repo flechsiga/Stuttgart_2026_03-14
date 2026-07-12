@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ost-Indische Reise-Beschreibung</title>
+        <title type="sub">Diarium, Was bey der Reise des Churfürstl. Sächß. Raths und Berg-Commissarii, D. Benjamin Olitzschens im Jahr 1680. Von Dreßden aus</title>
+        <author>
+          <persName ref="http://d-nb.info/gnd/128660260">
+            <surname>Hesse</surname>
+            <forename>Elias</forename>
+          </persName>
+        </author>
+        <respStmt>
+          <orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe</note>
+            <ref target="https://www.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt><edition>Vollständige digitalisierte Ausgabe.</edition></editionStmt>
+      <extent>
+        <measure type="images"/>
+        <measure type="tokens"/>
+        <measure type="types"/>
+        <measure type="characters"/>
+      </extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2026-03-14T10:35:09Z</date>
+        <availability xml:id="availability-imagesource-1" corresp="#imagesource-1">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+            <p>CC BY-NC-SA 4.0</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="M"/>
+        <biblFull>
+          <titleStmt>
+          <title level="m" type="main">Ost-Indische Reise-Beschreibung</title>
+          <title level="m" type="sub">Diarium, Was bey der Reise des Churfürstl. Sächß. Raths und Berg-Commissarii, D. Benjamin Olitzschens im Jahr 1680. Von Dreßden aus</title>
+            <author>
+              <persName ref="http://d-nb.info/gnd/128660260">
+                <surname>Hesse</surname>
+                <forename>Elias</forename>
+              </persName>
+            </author>
+          </titleStmt>
+          <editionStmt>
+            <edition n="1"/>
+          </editionStmt>
+          <publicationStmt>
+            <publisher><name>Jacob Born</name></publisher>
+              <pubPlace>Leipzig</pubPlace>
+            <date type="publication">1734</date>
+          </publicationStmt>
+        </biblFull>
+        <msDesc xml:id="imagesource-1" corresp="#availability-imagesource-1">
+          <msIdentifier>
+            <repository>Thüringer Universitäts- und Landesbibliothek Jena</repository>
+            <idno>
+              <idno type="shelfmark">8 M 13823</idno>
+              <idno type="URN"> urn:nbn:de:urmel-a6322c7e-b39c-47db-be6f-8e18293379653</idno>
+            </idno>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+<text>
+<body>
+<p>
+    <lb/>Der Ander Theil.
+    <lb/>Fortsetzung der Reise aus <placeName ref="http://d-nb.info/gnd/4133959-9">Holland</placeName>
+    <lb/>nach <placeName ref="http://d-nb.info/gnd/4400612-3">Ost-Indien</placeName>/ darbey der <placeName ref="http://d-nb.info/gnd/4110003-7">Cap de
+    <lb/>bon Esperance</placeName> und derselben Einwoh-
+    <lb/>ner Beschreibung.
+    <lb/>1680. Octobr.
+    <lb/>Die Zeit wolte uns nicht län-
+    <lb/>ger vergönnen/ fernere Vergnü-
+    <lb/>gung in <placeName ref="http://d-nb.info/gnd/4001783-7">Amsterdam</placeName> zu haben/ son-
+    <lb/>dern es überfiel uns nunmehro auch
+    <lb/>eine trübe Wolcke; massen nicht allein unser
+    <lb/>Ober-Haupt<note type="editorial">Gemeint ist vermutlich Benjamin Olitsch.</note> mit seiner Familie/ sondern auch
+    <lb/>alle Bergleute mit der hiesigen in grossem
+    <lb/>Schwang gehenden Cours oder hizigem Fie-
+    <lb/>ber/ angestecket wurden/ so auch lezlichen
+    <lb/>mich nicht unangefochten ließ: über dieses
+    <lb/>kam auch der Tag unsers Auffbruchs herbey/
+    <lb/>Schiffer/ Commandeur/ Steuer-Leute/
+    <lb/>Soldaten und Matrosen waren in Dienst
+    <lb/>genommen/ befunden sich auch schon im <placeName ref="http://d-nb.info/gnd/4106202-4">Texel</placeName>
+    <lb/>auff dem Schiff Sumatra; stund also alles
+    <lb/>klar und fertig/ mit dem ersten guten Winde
+    <lb/>unter Segel zu gehen/ und also diese so lang-
+    <lb/>als beschwer- und gefährliche Ost-Indische
+    <lb/>Reise
+</p>
+</body>
+</text>
+</TEI>
